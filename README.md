@@ -26,7 +26,7 @@
 
 ## 🌐 Live Demo
 
-> **🚀 Deployed URL:** _Will be added after Vercel deployment_
+> **🚀 Deployed URL:** [lila-pi.vercel.app](https://lila-pi.vercel.app/)
 
 ---
 

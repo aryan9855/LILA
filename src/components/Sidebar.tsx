@@ -62,7 +62,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
   };
 
   return (
-    <aside className="w-84 md:w-96 bg-[#0e1320] border-r border-[#1b253b] flex flex-col h-[calc(100vh-4rem)] z-20 select-none overflow-hidden">
+    <aside className="w-84 md:w-96 bg-[#0e1320] border-r border-[#1b253b] flex flex-col h-[calc(100vh-8rem)] z-20 select-none overflow-hidden">
       <div className="flex-1 overflow-y-auto p-4 space-y-5">
         
         {/* Date Filter */}
